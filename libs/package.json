@@ -1,0 +1,26 @@
+{
+  "name": "libs",
+  "version": "1.0.0",
+  "description": "libs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ctyloading",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.15.0",
+    "browser-sync": "^2.11.2",
+    "browserify": "^13.0.0",
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.3",
+    "jade": "^1.11.0",
+    "moment": "^2.12.0",
+    "mongoose": "^4.4.10",
+    "underscore": "^1.8.3"
+  }
+}

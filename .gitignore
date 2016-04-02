@@ -1,0 +1,4 @@
+./*/node_modules
+ex3/public/libs
+addon/build
+**/npm-debug.log
